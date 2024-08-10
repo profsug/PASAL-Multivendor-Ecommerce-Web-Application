@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("../images/khalti.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#payment-button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 42%;
+    width: 150px;
+    height: 60px;
+}
